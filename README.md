@@ -24,10 +24,13 @@ Dependências instaladas vamos rodar o projeto. E para isso basta digitar em seu
 A aplicação será aberta em:
  [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-
+ 
  ## Possibilidades
 
- A aplicação não ainda totalmente concluída.
- A tela de login for criada, mas as ferramentas de autenticação de login carecem de implementação bem como a tratativa de URL mais amigáveis.
+ A aplicação ainda não está totalmente concluída.
+
+ A tela de login foi criada, porém as ferramentas de autenticação carecem de implementação bem como a tratativa de URL mais amigáveis.
 
  Ainda é possível trazer maior riqueza de detalhes em cada item clicado aproveitando todas as informações da API.
+
+ O designer das páginas foi criado de forma minimalista podendo também ser aprimorado.
