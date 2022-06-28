@@ -3,11 +3,11 @@
 Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 E ele faz coleta os dados da API [The Star Wars API](https://swapi.dev/) em uma página mais amigável como pode observar nos exemplos de protótipos criados em Photoshop a seguir:
 
-<img src="/assets/loginPage.png" alt="LoginPage" width="250"/>
+<img src="src/assets/loginPage.png" alt="LoginPage" width="350"/>
 
-<img src="/assets/Dashboard.png" alt="DashBoard" width="250"/>
+<img src="src/assets/dashboard.png" alt="DashBoard" width="350"/>
 
-<img src="/assets/outherPage.png" alt="OutherPages" width="250"/>
+<img src="src/assets/outherPage.png" alt="OutherPages" width="350"/>
 
 
 ## Para rodar o projeto
